@@ -4,12 +4,9 @@
 <div>
   <div id="badges" align="left">
  <h3></h3> <a href="https://arpita0704ad2110.github.io/Arpita-Portfolio/">
-    <img src="https://img.shields.io/badge/View-site🚀-black?style=for-the-badge&logo=View-Demo&logoColor=white" />
+    <img src="https://img.shields.io/badge/View-Site🚀-black?style=for-the-badge&logo=View-Site&logoColor=white" />
   </a>
-</div>
-  <img src="image.png" width="900" height="500"/>
-</div>
-
+  </div>
 <br>
 <div>
 <h2 align="left">💻 Languages used :</h2>
@@ -31,3 +28,8 @@
 </a>
   </p>
 </div>
+<div>
+  <h2 align="left">📌 Some screenshot of my portfolio-site :</h2>
+  <img src="image.png" width="900" height="500"/>
+</div>
+
