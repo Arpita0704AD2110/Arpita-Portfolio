@@ -1,5 +1,5 @@
 <div id="header" >
-  <img src="image.gif" width="900" height="500"/>
+  <img src="image.png" width="900" height="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://arpita0704ad2110.github.io/Arpita-Portfolio/">
