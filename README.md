@@ -26,8 +26,8 @@
 <br>
 
   <h2 align="left">📌 Some screenshot of my portfolio-site :</h2>
-  <img src="assets/image.png" width="900" height="500"/>
-  <img src="assets/image1.png" width="900" height="500"/>
+  <img src="assets/image.png" width="900" height="400"/>
+  <img src="assets/image1.png" width="900" height="400"/>
 
 <br>
 
